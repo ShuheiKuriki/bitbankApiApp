@@ -80,7 +80,7 @@ npm install @types/long --save-dev
 ```
 
 ## 必要なライブラリ
-
+nodeとnpmを最新版にアップデートしたうえで、以下を実行
 ```
 npm i @mui/material
 npm i @mui/icons-material
